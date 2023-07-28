@@ -1,0 +1,14 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://entitlement.visionplus.id/api/v1/entitlement/user-type,1,128,128,128,128,128,128,128,0.000%,7.81250,4.67,4.80
+https://entitlement.visionplus.id/api/v1/entitlement/player/3,1,24,24,24,24,24,24,24,0.000%,41.66667,47.12,25.55
+https://entitlement.visionplus.id/api/v2/entitlement/player/2,1,209,209,209,209,209,209,209,0.000%,4.78469,9.71,3.06
+https://entitlement.visionplus.id/api/v1/entitlement/channel/list,1,543,543,543,543,543,543,543,0.000%,1.84162,182.21,1.15
+https://entitlement.visionplus.id/api/v1/entitlement/user-package/list,1,48,48,48,48,48,48,48,0.000%,20.83333,18.11,13.08
+https://app-config.visionplus.id/api/v1/app-config/list,1,203,203,203,203,203,203,203,0.000%,4.92611,145.91,3.02
+https://payment.visionplus.id/api/v1/payment/user-last-periode,1,185,185,185,185,185,185,185,0.000%,5.40541,1.71,3.35
+https://payment.visionplus.id/api/v1/payment/transaction/list,1,47,47,47,47,47,47,47,0.000%,21.27660,112.30,13.17
+https://versioning.visionplus.id/api/v1/versioning/version-status,1,218,218,218,218,218,218,218,0.000%,4.58716,5.74,3.14
+https://api.mncnow.id/api/v10/epg,1,196,196,196,196,196,196,196,0.000%,5.10204,2.81,2.99
+https://api.mncnow.id/api/v2/channels,1,77,77,77,77,77,77,77,0.000%,12.98701,252.24,7.66
+Test,1,1878,1878,1878,1878,1878,1878,1878,0.000%,.52938,84.70,3.62
+TOTAL,12,313,185,543,543,1878,24,1878,0.000%,6.35257,169.41,7.23

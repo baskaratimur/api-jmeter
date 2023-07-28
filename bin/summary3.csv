@@ -1,0 +1,13 @@
+Thread Group:https://entitlement.visionplus.id/api/v1/entitlement/user-type,1,116,116,116,0.00,0.000%,8.62069,5.25,5.30,624.0
+Thread Group:https://entitlement.visionplus.id/api/v1/entitlement/player/3,1,27,27,27,0.00,0.000%,37.03704,42.43,22.71,1173.0
+Thread Group:https://entitlement.visionplus.id/api/v2/entitlement/player/2,1,27,27,27,0.00,0.000%,37.03704,75.70,23.69,2093.0
+Thread Group:https://entitlement.visionplus.id/api/v1/entitlement/channel/list,1,81,81,81,0.00,0.000%,12.34568,1221.60,7.69,101324.0
+Thread Group:https://entitlement.visionplus.id/api/v1/entitlement/user-package/list,1,23,23,23,0.00,0.000%,43.47826,38.26,27.30,901.0
+Thread Group:https://app-config.visionplus.id/api/v1/app-config/list,1,124,124,124,0.00,0.000%,8.06452,238.86,4.95,30330.0
+Thread Group:https://payment.visionplus.id/api/v1/payment/user-last-periode,1,78,78,78,0.00,0.000%,12.82051,4.04,7.95,323.0
+Thread Group:https://payment.visionplus.id/api/v1/payment/transaction/list,1,29,29,29,0.00,0.000%,34.48276,181.88,21.35,5401.0
+Thread Group:https://versioning.visionplus.id/api/v1/versioning/version-status,1,422,422,422,0.00,0.000%,2.36967,2.98,1.62,1288.0
+Thread Group:https://api.mncnow.id/api/v10/epg,1,155,155,155,0.00,0.000%,6.45161,2.23,3.78,354.0
+Thread Group:https://api.mncnow.id/api/v2/channels,1,63,63,63,0.00,0.000%,15.87302,308.31,9.36,19890.0
+Thread Group:Test,1,1145,1145,1145,0.00,0.000%,.86730,138.65,5.93,163701.0
+TOTAL,12,190,23,1145,306.10,0.000%,10.40763,277.30,11.85,27283.5

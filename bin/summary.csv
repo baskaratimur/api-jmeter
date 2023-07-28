@@ -1,0 +1,13 @@
+https://entitlement.visionplus.id/api/v1/entitlement/user-type,1,153,153,153,0.00,0.000%,6.53595,3.98,4.01,624.0
+https://entitlement.visionplus.id/api/v1/entitlement/player/3,1,15,15,15,0.00,0.000%,66.66667,76.63,40.89,1177.0
+https://entitlement.visionplus.id/api/v2/entitlement/player/2,1,140,140,140,0.00,0.000%,7.14286,14.63,4.57,2097.0
+https://entitlement.visionplus.id/api/v1/entitlement/channel/list,1,58,58,58,0.00,0.000%,17.24138,1706.02,10.74,101324.0
+https://entitlement.visionplus.id/api/v1/entitlement/user-package/list,1,35,35,35,0.00,0.000%,28.57143,25.25,17.94,905.0
+https://app-config.visionplus.id/api/v1/app-config/list,1,155,155,155,0.00,0.000%,6.45161,191.09,3.96,30330.0
+https://payment.visionplus.id/api/v1/payment/user-last-periode,1,106,106,106,0.00,0.000%,9.43396,2.98,5.85,323.0
+https://payment.visionplus.id/api/v1/payment/transaction/list,1,17,17,17,0.00,0.000%,58.82353,310.49,36.42,5405.0
+https://versioning.visionplus.id/api/v1/versioning/version-status,1,285,285,285,0.00,0.000%,3.50877,4.40,2.41,1284.0
+https://api.mncnow.id/api/v10/epg,1,67,67,67,0.00,0.000%,14.92537,8.22,8.75,564.0
+https://api.mncnow.id/api/v2/channels,1,17,17,17,0.00,0.000%,58.82353,1142.52,34.70,19889.0
+Test,1,1048,1048,1048,0.00,0.000%,.94518,151.30,6.46,163922.0
+TOTAL,12,174,15,1048,274.10,0.000%,11.34216,302.61,12.91,27320.3
